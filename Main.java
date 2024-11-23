@@ -19,6 +19,7 @@ public class Main {
     
 
         System.out.println("Cadena invertida: " + pilaInvertida);
+        System.out.println("Cantidad de caracteres: "+pilaInvertida.size());
     }
 
    
